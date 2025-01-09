@@ -5,5 +5,10 @@ PIL is Python Image Library. It allows you to load image data and modify it in m
 
 To use this just run the code:
 1. It will open a window from where you can choose the image.
+2. Choose the image and click open.
+3. Another window will open for you to choose the new file name
+
+Your file is saved in the same path as the image you chose.
+
 
 Author- Nipun Singhal
