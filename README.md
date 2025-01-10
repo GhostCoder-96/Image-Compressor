@@ -10,6 +10,7 @@ To use this just run the code:
 
 Your file is saved in the same path as the image you chose.
 
-Drawback of this code is that once a image is compressed, it connot be compressed again.
+Drawback of this code is that once an image is compressed, it connot be compressed again.
+If compressed, the size won't change again. It will remain the same
 
 Author- Nipun Singhal
